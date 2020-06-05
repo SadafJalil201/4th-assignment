@@ -1,0 +1,152 @@
+.navbar {
+    background-color: black !important;
+}
+.nav-link {
+    color: orange !important;
+    font-weight: bold;
+}
+.btn{
+    color: orange;
+    border-color: orangered;
+}
+.btn:hover { 
+    background-color:orange;
+    border-color: orangered;
+  }
+.btn:active{
+    background-color: orange !important;
+    border-color: orangered !important; border-width: thick !important;
+}
+.form-control:focus{
+    border: 2px solid #ffc107;
+}
+.navbar-toggler{
+    background-color: orange !important;
+    border-color: orangered !important;
+}
+
+.NewArrival, .Featured_Product{
+    margin-top: 10px;
+}
+.card{
+    width: 200px;
+    height: auto;
+    margin: 5px;
+}
+.btn-primary{
+    width: 100%;
+    background-color: black;
+}
+
+.card-title{
+    color: orange;
+}
+h3{
+    color: orangered;
+    margin-top: 10px;
+    text-align: center;
+}
+h1{
+    color: orange;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.dropdown-menu{
+    background-color: black;
+}
+.dropdown-item{
+    color: orange;
+    
+}
+.dropdown-item:hover{
+    background-color: orange;
+    color: white;
+    border-color: orangered;
+}
+.bg{
+    background-color: black;
+}
+.footer>div{
+    background-color: black;
+    color: orange;
+    height: 100%;
+
+}
+.design{
+    background-color: orangered;
+    width: 100%;
+    height: 5px;  
+}
+.contact>h4{
+    color: orange;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 5px;
+}
+.name{
+    font-weight: bolder;
+    font-size: 15px;
+    margin-left: 5px;
+}
+i{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+p{margin-left: 5px;
+
+}
+.design1{
+    background-color: orangered;
+    color: black;
+    text-align: center;
+    margin-top: 5px;
+    font-size: small;
+    
+}
+.icon{
+    text-align: right;
+    margin-right: 15px;
+    padding-right: 5px;
+}
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */  
+    border: 1px solid orangered; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: black;
+    color: orange;
+    padding: 12px 20px;
+    border: orangered;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: orange;
+    color: white;
+    border-color: orangered;
+  }
+  
+  /* Add a background color and some padding around the form */
+  .container1 {
+    border-radius: 5px;
+    background-color:white;
+    padding: 20px;
+  }
+  
+    
+        
+    
